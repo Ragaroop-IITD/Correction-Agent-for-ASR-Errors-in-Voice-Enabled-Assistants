@@ -74,8 +74,8 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Ragaroop-IITD/Correction-Agent-for-ASR-Errors-in-Voice-Enabled-Assistants.git
+   cd Correction-Agent-for-ASR-Errors-in-Voice-Enabled-Assistants
    ```
 
 2. Create a conda environment and install the dependencies:
